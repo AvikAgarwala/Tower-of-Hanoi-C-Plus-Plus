@@ -1,5 +1,5 @@
 # Solution for `Tower of Hanoi` using `C++` programming language
-### [This is a recursive implementation]
+## [This is a recursive implementation]
 
 ### > How to compile & run
 
